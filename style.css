@@ -1,0 +1,31 @@
+.sec2{
+    background-image: url('i.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+.ordi{
+    height: 200px;
+    width: 240px;
+}
+.spot{
+    background-image: url('o.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+    
+}
+
+.same{
+    text-align: center;
+    background-image: url('i.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;  
+}
+
+.pro{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
